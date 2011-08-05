@@ -7,7 +7,7 @@
 package com.flamesgroup.poweradius.attribute;
 
 import java.io.UnsupportedEncodingException;
-
+//qqqq
 /**
  * This class represents a Radius attribute which only
  * contains a string.
