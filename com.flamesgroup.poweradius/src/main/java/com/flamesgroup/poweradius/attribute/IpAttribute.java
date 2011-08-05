@@ -13,6 +13,10 @@ import com.flamesgroup.poweradius.util.RadiusException;
 /**
  * This class represents a Radius attribute for an IP number.
  */
+<<<<<<< HEAD
+=======
+ //yyyy
+>>>>>>> master
 public class IpAttribute extends RadiusAttribute {
 
 	/**

@@ -4,7 +4,10 @@
  * @author Matthias Wuttke
  * @version $Revision: 1.4 $
  */
+<<<<<<< HEAD
  //eeeeeeeeeeee
+=======
+>>>>>>> master
 package com.flamesgroup.poweradius.attribute;
 
 import com.flamesgroup.poweradius.dictionary.AttributeType;
